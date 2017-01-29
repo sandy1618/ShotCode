@@ -1,6 +1,9 @@
 # ShotCode
 
+[![DOI](https://zenodo.org/badge/80371967.svg)](https://zenodo.org/badge/latestdoi/80371967)
+
 Some usefull geophysics codes
+
 https://github.com/allanspadini/ShotCode
 
 Hi,
