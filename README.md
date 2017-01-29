@@ -5,8 +5,8 @@ https://github.com/allanspadini/ShotCode
 
 Hi,
 
-My name os Allan Spadini
-I will put in here some usefull functions that were usefull in my masters and Phd.
+My name os Allan Spadini.
+I will put in here some functions that were usefull in my masters and Phd.
 Under the supervision of Professors:
 Liliana Alcazar Diogo
 and
