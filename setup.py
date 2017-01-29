@@ -5,5 +5,5 @@ setup(
 	version='0.1dev',
 	packages=['shotcode',],
 	license='GPL-3.0', 
-	long_description=open('README.txt').read(),
+	long_description=open('README.md').read(),
 )
